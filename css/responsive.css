@@ -105,4 +105,11 @@
     visibility: hidden;
   }
 
+  #social {
+    position: absolute;
+    top: 60px;
+    right: 10%;
+    width: auto;
+  }
+
 }
