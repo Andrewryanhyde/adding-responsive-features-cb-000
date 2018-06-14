@@ -68,6 +68,12 @@
     -webkit-column-count: 1;
     column-count: 1;
   }
+  #social {
+    position: absolute;
+    top: 40pxpx;
+    right: 10%;
+    width: auto;
+  }
 }
 
 @media only screen and (max-width: 700px) {
@@ -98,4 +104,5 @@
   #logo h2 {
     visibility: hidden;
   }
+
 }
