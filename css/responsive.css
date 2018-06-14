@@ -34,14 +34,14 @@
   }
 
   .col-3 p {
-    
+
   }
 }
 
 @media only screen and (max-width: 800px) {
   #navbar nav a {
     font-size: 0.9em;
-    
+
   }
 }
 
@@ -50,5 +50,9 @@
     width: 100%;
     margin-left: 0;
     float: none;
+  }
+
+  .border-right {
+    border: 0;
   }
 }
