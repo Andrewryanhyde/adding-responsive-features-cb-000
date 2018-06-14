@@ -83,4 +83,13 @@
     padding: 10px 20px;
     width: auto;
   }
+
+  #logo {
+    padding-top: 60px;
+
+  }
+
+  #social {
+    padding-top: 60px;
+  }
 }
